@@ -1,6 +1,6 @@
-# find-email-addresses
+# find-email-addresses here
 Website scrapper for email addresses in Python
-Steps to install FindEmailAddresses.py
+Steps to install FindEmailAddresses.py is below the folllowing steps
 
 1. Make sure you install python 2.7, this is developed on a machine running Python 2.7
 
